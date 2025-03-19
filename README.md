@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the.juvenille
-- 👀 I’m interested in ...Data analytics 
-- 🌱 I’m currently learning ...more of python and SQL
+- 👀 I’m interested in ...Web Development 
+- 🌱 I’m currently learning ...more of python and Django with HTML and CSS
 - 💞️ I’m looking to collaborate on ...group projects that will improve and enhance my knowledge in the field 
 - 📫 How to reach me ... dennisbarnabas11@icloud.com
 -   dennisbarnabas11@gmail.com i will be an email away 😊
